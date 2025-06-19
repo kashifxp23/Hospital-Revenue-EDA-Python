@@ -89,7 +89,7 @@ It demonstrates the power of **data storytelling** and **technical execution** i
 
 ## 📂 Files Included
 
-- `eda_script.ipynb` – Python notebook with full EDA  
-- `summary_insights.pdf` – Final insights & recommendations
+- `EDA in Hospitality Domain.ipynb` – Python notebook with full EDA  
+- `AtliQ Hotels- Revenue Analysis by EDA.pdf` – Complete Report
 
 ---
